@@ -90,11 +90,12 @@ Overall system accuracy achieved:
 ## Screenshots
 The screenshot of the web app is attached below:
 
-```md
-![Explore Page](<img width="1857" height="933" alt="image" src="https://github.com/user-attachments/assets/2dda4c7f-0cec-49d1-b4ca-fff827b80c08" />
-)
-![Prediction Page](<img width="1811" height="890" alt="image" src="https://github.com/user-attachments/assets/53356fc3-b160-48f6-b8de-bf058a450eb0" />
-)
+###Explore Page
+<img width="1857" height="933" alt="image" src="https://github.com/user-attachments/assets/2dda4c7f-0cec-49d1-b4ca-fff827b80c08" />
+
+###Prediction Page
+<img width="1811" height="890" alt="image" src="https://github.com/user-attachments/assets/53356fc3-b160-48f6-b8de-bf058a450eb0" />
+
 ```
 
 ---
@@ -147,9 +148,8 @@ python app.py
 The application is deployed on Render for public access and interactive predictions.
 
 The deployed app can be accessed from here:
-```text
-https://space-debris.onrender.com/
-```
+[space_debris]([https://space-debris.onrender.com/](https://space-debris.onrender.com/))
+
 
 ---
 
