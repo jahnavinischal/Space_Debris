@@ -148,7 +148,7 @@ The application is deployed on Render for public access and interactive predicti
 
 The deployed app can be accessed from here:
 ```text
-[Website](https://space-debris.onrender.com/)
+https://space-debris.onrender.com/
 ```
 
 ---
